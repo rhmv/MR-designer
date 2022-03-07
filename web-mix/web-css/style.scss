@@ -74,6 +74,14 @@ a {
     }
 }
 
+.me-8 {
+    margin-left: -9px;
+}
+
+.m-e-2 {
+    margin-left: -1px;
+}
+
 /* ========================================================= */
     // Navbar Style
 /* ========================================================= */
@@ -82,7 +90,7 @@ a {
     top: 0px;
     width: 100%;
     -webkit-transition: 300ms all;
-    transition: 500ms all;
+    transition:300ms all;
     z-index: 999;
     background-color: white;
     opacity: 1;
